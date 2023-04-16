@@ -8,7 +8,7 @@ This is an index of Proof of Concepts for the next generation of compliance tool
 
 [OSLiLi Web](https://github.com/oscarvalenzuelab/OSLiLi-Flask) [](https://github.com/oscarvalenzuelab/oslili-flask) \- A Flask component for implementing OSLiLi as a Flask Service, with REST API and Cache.
 
-[Kotaix Binary Scanner](https://github.com/oscarvalenzuelab/kotaix) - A "Warp Speed" code scanner that use Inferentia to generate a list of OSS packages. It can identify OSS components on binaries using Binary Static Analysis.
+[Kotaix Binary Scanner](https://github.com/oscarvalenzuelab/kotaix) - A "Warp Speed" code scanner that use Inferentia to generate a list of OSS packages. It can identify OSS components on binary files using Binary Static Analysis.
 
 [BotSniffer](https://github.com/oscarvalenzuelab/botsniffer) - A tool to detect AI written code using Humman Pattern (Stupidity Coefficient) and Feature Extraction instead of snippet matching and code plagiarism.
 
