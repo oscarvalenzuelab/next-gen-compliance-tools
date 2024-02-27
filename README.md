@@ -13,3 +13,5 @@ This is an index of Proof of Concepts for the next generation of compliance tool
 [BotSniffer](https://github.com/oscarvalenzuelab/botsniffer) - A tool to detect AI written code using Humman Pattern (Stupidity Coefficient) and Feature Extraction instead of snippet matching and code plagiarism.
 
 [Namonica](https://github.com/oscarvalenzuelab/namonica) - A tool that uses Machine Learning and Proximity (similarity/dissimilarity) to infer OSS package names from a list of strings.
+
+[ThunderaBSA](https://github.com/Xpertians/ThunderaBSA) - ThunderaBSA is a Binary Static Analysis tool that use DEBUG symbols (experimental).
